@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: #bbf1fd;
+}
+
+a {
+    color:#707070;
+}
+
+i.small {
+    font-size: 1.5rem;
+}
+
+i.tiny {
+    font-size: 1rem;
+}
+
+#footer {
+    text-align: center;
+}

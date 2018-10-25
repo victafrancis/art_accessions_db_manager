@@ -24,7 +24,7 @@
       <a class="nav-link" href="export_data.php" title="Export Data">Export Data</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="author.php" title="Export Data">Author</a>
+      <a class="nav-link" href="author.php" title="About the Author">Author</a>
     </li>
   </ul>
   <form method="get" action="search_page.php" class="form-inline my-2 my-lg-0">
